@@ -15,7 +15,7 @@ The purpose of this project is to identify which of the books top the chart and 
 # Process
 Step 1: Obtaining data
 
-[Kaggle Dataset](https://www.kaggle.com/datasets/input/amazon-top-50-bestselling-books-2009-2019/bestsellers with categories)
+[Kaggle Dataset](https://www.kaggle.com/datasets)
 
 Step 2: Loading and understanding the dataset.
 - Work with 'bestsellers with categories.csv' data to understand  each feature in the dataset.
