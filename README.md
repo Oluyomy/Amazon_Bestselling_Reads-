@@ -41,7 +41,8 @@ step 5
 - 310 are  non fiction while 240 are fiction.
 - User Rating is affected by the price as it is evident that as price increases, ratings decreases.
 - The year with the highest review was  year 2015 and the Non Fiction books hane the highest review.
+- User rating  for fiction books was the lowest in 2012 while its rating was highest in 2018 and 2019.
 ## conclusion
- 
+- We can conclude that  it is an advent of Fiction books, they are bestsellers these days.
  ## Challenges
-   Time constraint to explore m
+  - Time constraint to explore m
