@@ -5,9 +5,10 @@ This is a Kaggle dataset that contains information about Amazon's bestselling bo
 The dataset has 550 rows and 7 columns, Data visualization tools to communicate the insights gained from the analysis.
 
 ## Project  Goals
-The purpose of this project is to identify which of the books top the chart and determine why it did.
-Brief description:
-
+The purpose of this project is to identify which of the books top the chart and determine the following:
+- Does the price of the books affect the user ratings?
+- what is the category of the books in the genre and there values.
+- what is the year with the highest review and what category of genre was reviewed most?
 
 # Process
 Step 1: Obtaining data
@@ -37,7 +38,9 @@ step 5
 
 ## Results
 - There are no missing values in the dataset.
-- 
+- 310 are  non fiction while 240 are fiction.
+- User Rating is affected by the price as it is evident that as price increases, ratings decreases.
+- The year with the highest review was  year 2015 and the Non Fiction books hane the highest review.
 ## conclusion
  
  ## Challenges
